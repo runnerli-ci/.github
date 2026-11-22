@@ -31,3 +31,5 @@ GitHub also tells us when a job is queued (the `workflow_job` event), so the job
 
 - Website: [runner.li](https://runner.li)
 - Documentation: [docs.runner.li](https://docs.runner.li)
+- Sales: [sales@vshn.ch](mailto:sales@vshn.ch)
+- Security reports: [support@vshn.ch](mailto:support@vshn.ch)
