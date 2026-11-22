@@ -25,7 +25,7 @@ The steps in full are in the [GitHub guide](https://docs.runner.li/forges/github
 | Commit statuses: read and write | Show on the commit why a flex job is waiting |
 | Metadata: read | Required by GitHub for every app |
 
-The app has no webhook, and no key or token leaves your side.
+GitHub also tells us when a job is queued (the `workflow_job` event), so the job starts without waiting for our next check. No key or token leaves your side.
 
 ## Links
 
